@@ -1,0 +1,16 @@
+title: "Ramya Soundarraj Portfolio"
+description: "Showcasing my software and applications skills."
+theme: jekyll-theme-cayman
+
+# Optional: Add navigation links
+navbar-links:
+  Home: "index.md"
+  About Me: "about.md"
+  Skills: "skills.md"
+  Social Housing: "housing-knowledge.md"
+  SQL Knowledge: "SQL-knowledge.md"
+  Excel: "excel-knowledge.md"
+  MS Office Software: "MS-Office-knowledge.md"
+  Project Management: "Project-Management-knowledge.md"
+  Direct Debit: "DD-knowledge.md"
+  
